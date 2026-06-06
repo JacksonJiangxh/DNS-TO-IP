@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs (keep DNSIPtest.log for debugging)
+# *.log
+
+# Output files (keep these for GitHub Actions)
+# DNSIPlist.txt
+# SenflareDNS.txt
+# Cache.json
+
+# OS
+.DS_Store
+Thumbs.db

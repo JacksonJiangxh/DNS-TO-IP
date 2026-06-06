@@ -1,0 +1,14 @@
+{
+  "enable_preprocess": true,
+  "enable_load_domains": true,
+  "enable_dns_resolve": true,
+  "enable_dedup_sort": true,
+  "enable_quick_filter": false,
+  "enable_region_detection": false,
+  "enable_latency_filter": false,
+  "enable_tcp_ping": false,
+  "enable_bandwidth_test": false,
+  "enable_basic_output": true,
+  "enable_pro_output": false,
+  "enable_cache_update": false
+}

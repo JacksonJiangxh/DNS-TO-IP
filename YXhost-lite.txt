@@ -1,0 +1,46 @@
+# Cloudflare优选域名列表
+# 
+# 格式说明：
+# 1. 纯域名格式：example.com
+# 2. 带描述格式：example.com#描述信息
+# 3. 每行一个域名，以#开头的行是注释，会被忽略
+#
+# 注意事项：
+# - 每行只能有一个域名
+# - 域名必须是有效的格式
+# - 支持IPv4地址和域名
+# - 空行会被忽略
+# - 以#开头的行会被忽略（注释）
+#
+# 实际域名列表：
+#
+# 当前优选域名（共27个）
+
+orange.seeck.cn#简睿 | 三网专线 | 01
+cloudflare.seeck.cn#简睿 | 三网专线 | 02
+elink.seeck.cn#简睿 | 三网专线 | 03
+nrtcfdns.zone.id#简睿 | 三网专线 | 04
+freeyx.cloudflare88.eu.org#简睿 | 三网专线 | 05
+777.ai7777777.xyz#简睿 | 三网专线 | 06
+cfsaas.080112.xyz#简睿 | 三网专线 | 07
+ali.nonull.pp.ua#简睿 | 三网专线 | 08
+cdn.204910.best#简睿 | 三网专线 | 09
+hj.xmm1993.top#简睿 | 三网专线 | 10
+cf.877774.xyz#秋名山 | 三网专线
+saas.sin.fan#MIYU | 三网专线
+cf.tencentapp.cn#ktff | 三网专线
+cf.130519.xyz#小小周 | 三网专线
+b3.cfyx.20237737.xyz#七十二时 | 三网专线
+cf.zhetengsha.eu.org#小一 | 三网专线
+one.cf.cdn.hyli.xyz#行雺 | 三网专线
+cf.090227.xyz#CMLiussss | 三网专线 | 01
+youxuan.cf.090227.xyz#CMLiussss | 三网专线 | 02
+sub.danfeng.eu.org#Dance | 三网专线
+cdns.doon.eu.org#Doon | 三网专线
+nrt.xxxxxxxx.nyc.mn#Nrt | 三网专线
+www.openai.com#OpenAI | 三网专线
+www.shopify.com#Shopify | 三网专线
+mfa.gov.ua#乌克兰 | 三网专线
+store.ubi.com#Ubisoft | 三网专线
+www.nexusmods.com#NexusMods | 三网专线
+cf.cloudflare.182682.xyz
